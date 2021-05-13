@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.ios.source_files      = 'Pod/Classes/iOS/*.swift'
   s.osx.source_files      = 'Pod/Classes/OSX/*.swift'
 
-  s.dependency 'RxSwift', '~> 6.0'
-  s.dependency 'RxCocoa', '~> 6.0'
+  s.dependency 'RxSwift', '~> 6.2'
+  s.dependency 'RxCocoa', '~> 6.2'
 
 end
